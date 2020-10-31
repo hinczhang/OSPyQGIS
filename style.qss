@@ -1,0 +1,43 @@
+QDialog{image:url(bg.png)}
+QPushButton{background:transparent}
+QFrame{background-color:rgb(0,255,0)}
+QTextBrowser{background-color:rgb(0,0,255)}
+QWidget[objectName='main_treeView']{background-color:rgb(255,255,255);border:none}
+QPushButton[objectName='main_pB_dk']{image:url(bt1.png)}
+QPushButton[objectName='main_pB_bc']{image:url(bt2.png)}
+QPushButton[objectName='main_pB_sc']{image:url(bt3.png)}
+QPushButton[objectName='main_pB_fd']{image:url(bt4.png)}
+QPushButton[objectName='main_pB_sx']{image:url(bt5.png)}
+QPushButton[objectName='main_pB_td']{image:url(bt6.png)}
+QPushButton[objectName='main_pB_qt']{image:url(bt7.png)}
+QPushButton[objectName='pB_cj']{image:url(btt1.png)}
+QPushButton[objectName='pB_lb']{image:url(btt2.png)}
+QPushButton[objectName='pb_fl']{image:url(btt3.png)}
+QPushButton[objectName='pB_js']{image:url(btt4.png)}
+QPushButton[objectName='pB_jd']{image:url(btt5.png)}
+QPushButton[objectName='pB_fg_1']{image:url(btt6.png)}
+QPushButton[objectName='pB_fg_2']{image:url(btt7.png)}
+QPushButton[objectName='pB_fg_3']{image:url(btt8.png)}
+QPushButton[objectName='pB_jdjc']{image:url(btt9.png)}
+QPushButton[objectName='pB_fast']{image:url(btt10.png)}
+QPushButton[objectName='pB_sllj']{image:url(btt11.png)}
+QPushButton[objectName='main_pushButton1']{image:url(btt12.png)}
+QPushButton[objectName='add0']{image:url(btt13.png)}
+QPushButton[objectName='add1']{image:url(btt13.png)}
+QPushButton[objectName='add2']{image:url(btt13.png)}
+QPushButton[objectName='add3']{image:url(btt13.png)}
+QPushButton[objectName='add4']{image:url(btt13.png)}
+QPushButton[objectName='add5']{image:url(btt13.png)}
+QPushButton[objectName='add6']{image:url(btt13.png)}
+QPushButton[objectName='add7']{image:url(btt13.png)}
+QPushButton[objectName='add8']{image:url(btt13.png)}
+QPushButton[objectName='add8']{image:url(btt13.png)}
+#main_progressBar {
+    min-height: 12px;
+    max-height: 12px;
+    border-radius: 6px;
+}
+#main_progressBar::chunk {
+    border-radius: 6px;
+    background-color: #778CAD;
+}
